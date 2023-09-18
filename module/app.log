@@ -1,0 +1,129 @@
+09-Sep-23 21:17:13 - INFO - Starting the training process
+09-Sep-23 21:17:13 - INFO - === Hyperparameters ===
+09-Sep-23 21:17:13 - INFO - Epochs: 10
+09-Sep-23 21:17:13 - INFO - Learning Rate: 0.001
+09-Sep-23 21:17:13 - INFO - Clip: 1.0
+09-Sep-23 21:17:13 - INFO - Window Size: 90
+09-Sep-23 21:17:13 - INFO - Predict Size: 21
+09-Sep-23 21:17:13 - INFO - Batch Size: 2048
+09-Sep-23 21:17:13 - INFO - Input Size: 5
+09-Sep-23 21:17:13 - INFO - Hidden Size: 512
+09-Sep-23 21:17:13 - INFO - Output Size: 21
+09-Sep-23 21:17:13 - INFO - Num Layers: 4
+09-Sep-23 21:17:13 - INFO - Use Layer Norm: True
+09-Sep-23 21:17:13 - INFO - =======================
+09-Sep-23 21:18:22 - INFO - Data preparation complete
+09-Sep-23 21:21:31 - INFO - Starting the training process
+09-Sep-23 21:21:31 - INFO - === Hyperparameters ===
+09-Sep-23 21:21:31 - INFO - Epochs: 10
+09-Sep-23 21:21:31 - INFO - Learning Rate: 0.01
+09-Sep-23 21:21:31 - INFO - Clip: 1.0
+09-Sep-23 21:21:31 - INFO - Window Size: 70
+09-Sep-23 21:21:31 - INFO - Predict Size: 21
+09-Sep-23 21:21:31 - INFO - Batch Size: 2048
+09-Sep-23 21:21:31 - INFO - Input Size: 5
+09-Sep-23 21:21:31 - INFO - Hidden Size: 128
+09-Sep-23 21:21:31 - INFO - Output Size: 21
+09-Sep-23 21:21:31 - INFO - Num Layers: 3
+09-Sep-23 21:21:31 - INFO - Use Layer Norm: True
+09-Sep-23 21:21:31 - INFO - =======================
+09-Sep-23 21:22:40 - INFO - Data preparation complete
+09-Sep-23 21:39:15 - INFO - Starting the training process
+09-Sep-23 21:39:15 - INFO - === Hyperparameters ===
+09-Sep-23 21:39:15 - INFO - Epochs: 10
+09-Sep-23 21:39:15 - INFO - Learning Rate: 0.01
+09-Sep-23 21:39:15 - INFO - Clip: 1.0
+09-Sep-23 21:39:15 - INFO - Window Size: 70
+09-Sep-23 21:39:15 - INFO - Predict Size: 21
+09-Sep-23 21:39:15 - INFO - Batch Size: 2048
+09-Sep-23 21:39:15 - INFO - Input Size: 5
+09-Sep-23 21:39:15 - INFO - Hidden Size: 128
+09-Sep-23 21:39:15 - INFO - Output Size: 21
+09-Sep-23 21:39:15 - INFO - Num Layers: 3
+09-Sep-23 21:39:15 - INFO - Use Layer Norm: True
+09-Sep-23 21:39:15 - INFO - =======================
+09-Sep-23 21:40:32 - INFO - Data preparation complete
+09-Sep-23 22:34:09 - INFO - Starting the training process
+09-Sep-23 22:34:09 - INFO - === Hyperparameters ===
+09-Sep-23 22:34:09 - INFO - Epochs: 3
+09-Sep-23 22:34:09 - INFO - Learning Rate: 0.001
+09-Sep-23 22:34:09 - INFO - Clip: 1.0
+09-Sep-23 22:34:09 - INFO - Window Size: 40
+09-Sep-23 22:34:09 - INFO - Predict Size: 21
+09-Sep-23 22:34:09 - INFO - Batch Size: 2048
+09-Sep-23 22:34:09 - INFO - Input Size: 5
+09-Sep-23 22:34:09 - INFO - Hidden Size: 512
+09-Sep-23 22:34:09 - INFO - Output Size: 21
+09-Sep-23 22:34:09 - INFO - Num Layers: 4
+09-Sep-23 22:34:09 - INFO - Use Layer Norm: True
+09-Sep-23 22:34:09 - INFO - =======================
+09-Sep-23 22:35:39 - INFO - Starting the training process
+09-Sep-23 22:35:39 - INFO - === Hyperparameters ===
+09-Sep-23 22:35:39 - INFO - Epochs: 3
+09-Sep-23 22:35:39 - INFO - Learning Rate: 0.001
+09-Sep-23 22:35:39 - INFO - Clip: 1.0
+09-Sep-23 22:35:39 - INFO - Window Size: 40
+09-Sep-23 22:35:39 - INFO - Predict Size: 21
+09-Sep-23 22:35:39 - INFO - Batch Size: 2048
+09-Sep-23 22:35:39 - INFO - Input Size: 5
+09-Sep-23 22:35:39 - INFO - Hidden Size: 512
+09-Sep-23 22:35:39 - INFO - Output Size: 21
+09-Sep-23 22:35:39 - INFO - Num Layers: 4
+09-Sep-23 22:35:39 - INFO - Use Layer Norm: True
+09-Sep-23 22:35:39 - INFO - =======================
+09-Sep-23 22:36:24 - INFO - Starting the training process
+09-Sep-23 22:36:24 - INFO - === Hyperparameters ===
+09-Sep-23 22:36:24 - INFO - Epochs: 3
+09-Sep-23 22:36:24 - INFO - Learning Rate: 0.001
+09-Sep-23 22:36:24 - INFO - Clip: 1.0
+09-Sep-23 22:36:24 - INFO - Window Size: 40
+09-Sep-23 22:36:24 - INFO - Predict Size: 21
+09-Sep-23 22:36:24 - INFO - Batch Size: 2048
+09-Sep-23 22:36:24 - INFO - Input Size: 5
+09-Sep-23 22:36:24 - INFO - Hidden Size: 512
+09-Sep-23 22:36:24 - INFO - Output Size: 21
+09-Sep-23 22:36:24 - INFO - Num Layers: 4
+09-Sep-23 22:36:24 - INFO - Use Layer Norm: True
+09-Sep-23 22:36:24 - INFO - =======================
+09-Sep-23 22:42:21 - INFO - Starting the training process
+09-Sep-23 22:42:21 - INFO - === Hyperparameters ===
+09-Sep-23 22:42:21 - INFO - Epochs: 3
+09-Sep-23 22:42:21 - INFO - Learning Rate: 0.0001
+09-Sep-23 22:42:21 - INFO - Clip: 1.0
+09-Sep-23 22:42:21 - INFO - Window Size: 30
+09-Sep-23 22:42:21 - INFO - Predict Size: 21
+09-Sep-23 22:42:21 - INFO - Batch Size: 2048
+09-Sep-23 22:42:21 - INFO - Input Size: 5
+09-Sep-23 22:42:21 - INFO - Hidden Size: 512
+09-Sep-23 22:42:21 - INFO - Output Size: 21
+09-Sep-23 22:42:21 - INFO - Num Layers: 3
+09-Sep-23 22:42:21 - INFO - Use Layer Norm: True
+09-Sep-23 22:42:21 - INFO - =======================
+09-Sep-23 22:44:15 - INFO - Starting the training process
+09-Sep-23 22:44:15 - INFO - === Hyperparameters ===
+09-Sep-23 22:44:15 - INFO - Epochs: 3
+09-Sep-23 22:44:15 - INFO - Learning Rate: 0.0001
+09-Sep-23 22:44:15 - INFO - Clip: 1.0
+09-Sep-23 22:44:15 - INFO - Window Size: 30
+09-Sep-23 22:44:15 - INFO - Predict Size: 21
+09-Sep-23 22:44:15 - INFO - Batch Size: 2048
+09-Sep-23 22:44:15 - INFO - Input Size: 5
+09-Sep-23 22:44:15 - INFO - Hidden Size: 512
+09-Sep-23 22:44:15 - INFO - Output Size: 21
+09-Sep-23 22:44:15 - INFO - Num Layers: 3
+09-Sep-23 22:44:15 - INFO - Use Layer Norm: True
+09-Sep-23 22:44:15 - INFO - =======================
+09-Sep-23 22:47:35 - INFO - Starting the training process
+09-Sep-23 22:47:35 - INFO - === Hyperparameters ===
+09-Sep-23 22:47:35 - INFO - Epochs: 3
+09-Sep-23 22:47:35 - INFO - Learning Rate: 0.0001
+09-Sep-23 22:47:35 - INFO - Clip: 1.0
+09-Sep-23 22:47:35 - INFO - Window Size: 30
+09-Sep-23 22:47:35 - INFO - Predict Size: 21
+09-Sep-23 22:47:35 - INFO - Batch Size: 2048
+09-Sep-23 22:47:35 - INFO - Input Size: 5
+09-Sep-23 22:47:35 - INFO - Hidden Size: 512
+09-Sep-23 22:47:35 - INFO - Output Size: 21
+09-Sep-23 22:47:35 - INFO - Num Layers: 3
+09-Sep-23 22:47:35 - INFO - Use Layer Norm: True
+09-Sep-23 22:47:35 - INFO - =======================
