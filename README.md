@@ -21,8 +21,7 @@
 ### Metric
 
 - Pseudo SFA(PSFA) 
-- ![image](https://github.com/Eastha0526/LG_aimers/assets/110336043/8b94481f-bda6-4c44-9f7e-04f6d3c6b625)
-
+![image](https://github.com/Eastha0526/LG_aimers/assets/110336043/1e04b518-17e5-4299-ab7d-fcb3ae9e930f)
 
 ---
 ### Collaborator
@@ -73,7 +72,8 @@
     - SOTA (State of the art) 모델인 LSTF-Linear 모델을 활용
     - 논문의 저자들의 경우 실제 트랜스포머 기반의 모델이 장기 시계열 예측에 효과적이지 않고 오히려 단순한 모델이 더 성능이 좋다고 주장
     - Linear, NLinear, DLinear 총 3가지 모델을 준비
-    - ![image](https://github.com/Eastha0526/LG_aimers/assets/110336043/e7fb53d3-e2a7-4295-a39c-dfd86c246118)
+    - ![image](https://github.com/Eastha0526/LG_aimers/assets/110336043/0abfc070-6f0d-4f14-90a2-8426999b694a)
+
     - Long Term Time Series Forecasting (LTSF) 과제에서 시간적 변화를 모델링 하는데 주 목적을 두기 때문에 시퀀스 정보가 예측에 있어 가장 중요하다.
     - 이러한 시퀀스 정보를 위하여 트랜스포머에서는 포지셔널 인코딩 기법을 사용하였다.
         - 하지만 포지셔널 인코딩 이후 진행되는 멀티 헤드 셀프 어텐션은 시퀀스에 대한 정보 손실이 있을 수 밖에 없다. 트랜스포머가 주로 사용되는 NLP 분야에서는 문장내 시퀀스가 의미자체에 영향을 주지 않기 때문에 약간의 손실이 크게 작용하지 않는다.
@@ -82,7 +82,7 @@
         - -> 이러한 관점에서 트랜스포머 모델이 실제로 성능이 과장되었다고 생각하고 진행하였다고 함
 
     - DLinear
-      - ![image](https://github.com/Eastha0526/LG_aimers/assets/110336043/d6ffd489-70e6-4979-a544-7c3e4af5b55d)
+      - ![image](https://github.com/Eastha0526/LG_aimers/assets/110336043/08b70a88-8635-441d-85d4-d68c71f4f915)
       - Autoformer 및 FEDformer에서 사용되는 시계열 분해 방식을 사용한 모델
       - 이동 평균값을 구하고 추세와 주기성 데이터로 분해하여 각각 선형 레이어를 통해 적용하여 결합 후 마지막 예측을 계산
         
